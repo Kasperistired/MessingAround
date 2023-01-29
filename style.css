@@ -12,7 +12,7 @@ min-width: 100vw;
 display: flex;
 justify-content: center;
 align-items: center;
-background-color: hsl(0%, 0%, 21%);
+background-color: black;
 
 }
 
@@ -23,7 +23,7 @@ background-color: hsl(0%, 0%, 21%);
 width: 20rem;
 height: 400rem;
 border-radius: 1.5rem;
-background-color: hsl(79%, 51%, 89%);
+background-color: white;
 
 
 
